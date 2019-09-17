@@ -7,6 +7,10 @@ The goal of this project is to make it easier to view and edit HD maps. The enti
 The tool uses multiple layers to display and edit HD maps.  
 ![Layers](docs/img/Layers.jpg)  
 
+* Statistics and counting function - How many lanes are there in the whole picture, how big is the curvature, how many intersections, etc.
+* Positioning function - Quickly locate to a specified location, including input channels, location information, specific conditions, etc.
+
+
 ## Quick start
 
 #### Examples
