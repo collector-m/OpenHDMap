@@ -10,6 +10,8 @@ The tool uses multiple layers to display and edit HD maps.
 * Statistics and counting function - How many lanes are there in the whole picture, how big is the curvature, how many intersections, etc.
 * Positioning function - Quickly locate to a specified location, including input channels, location information, specific conditions, etc.
 
+Here's how the model to map and map to model conversion relationship  
+![map_edit](docs/img/map_edit.jpg)  
 
 ## Quick start
 
