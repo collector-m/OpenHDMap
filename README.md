@@ -15,6 +15,15 @@ Here's how the model to map and map to model conversion relationship
 
 ## Quick start
 
+#### Process
+1. **Make point cloud map** - Use "pycpd" or "Open3D" to make a point cloud map.  
+2. **Annotation point cloud map** - Manual or automate generate the topologic of map.  
+
+Benchmark of the process:  
+* accurate
+* time
+
+
 #### Examples
 
 #### How to build
